@@ -1,0 +1,85 @@
+body {
+    background-color: #001f3f;
+}
+.bgw {
+    background-color: white;
+}
+
+.vw {
+    width: 80vw;
+}
+
+@font-face {
+    font-family: google;
+    src: url(./product-sans/Product\ Sans\ Regular.ttf);
+}
+
+
+* {
+    font-family: google;
+  
+}
+
+.jcc {
+    text-align: center;
+    justify-content: center;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.pad {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.margin {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+.jumbotron {
+        background-color: #001f3f;
+
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 20px 15px;
+;
+    
+}
+
+.round{
+    border-radius: 25px;
+}
+
+.itmround {
+    border-radius: 25px;
+}
+
+
+
+.item-border {
+border: 3px solid #0074D9
+
+
+}
+
+.grid {
+    width: 567px;
+    height: 569x;
+    display: flex; 
+    flex-wrap: wrap;
+    border-style: solid;
+    border-radius: 3px;
+  
+}
+
+.grid div {
+    width: 56px;
+    height: 55px;
+    border: .2px solid #DDDDDD;
+ }
+
+.snake {
+    background-color: blue;
+}
+
+
