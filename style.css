@@ -76,17 +76,19 @@ border: 3px solid #0074D9
     width: 56px;
     height: 55px;
     border: .2px solid #01FF70;
-     background-color: #001f3f;
+    background-color: #001f3f;
+    
  }
 
 .snake {
-    background-color: blue;
+    background-color: #FF851B !important;
 }
 
-.apple {
-    background-image: url('./apple.png');
-        background-size: contain;
-
+.apple  {
+        background-color:#B10DC9 !important;
+         
 }
+
+
 
 
