@@ -63,7 +63,7 @@ border: 3px solid #0074D9
 }
 
 .grid {
-    width: 567px;
+    width: 566px;
     height: 569x;
     display: flex; 
     flex-wrap: wrap;
@@ -75,11 +75,18 @@ border: 3px solid #0074D9
 .grid div {
     width: 56px;
     height: 55px;
-    border: .2px solid #DDDDDD;
+    border: .2px solid #01FF70;
+     background-color: #001f3f;
  }
 
 .snake {
     background-color: blue;
+}
+
+.apple {
+    background-image: url('./apple.png');
+        background-size: contain;
+
 }
 
 
